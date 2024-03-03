@@ -1,0 +1,27 @@
+.form-group {
+    display: flex; 
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    flex: 0 0 25%; 
+    margin-right: 10px; 
+  }
+  
+  input[type="text"],
+  input[type="date"] {
+    flex: 1; 
+  }
+  
+  .MuiSlider-root {
+    margin-bottom: 15px;
+  }
+  
+  .MuiFormControlLabel-root {
+    margin-right: 15px; 
+  }
+  
+  
+  button[type="submit"] {
+    margin: 0 auto;
+  }
